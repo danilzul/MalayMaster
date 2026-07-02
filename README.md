@@ -19,7 +19,7 @@ Add screenshots of your app here (recommended)
 
 🛠️ Installation
 Clone the repository
-git clone https://github.com/your-username/MalayMaster.git
+git clone https://github.com/danilzul/MalayMaster.git
 Open the project folder
 cd MalayMaster
 Run the project
